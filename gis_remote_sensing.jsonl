@@ -1,5 +1,17 @@
 {"messages": [
-    {"role": "system",   "content": "You are a GIS expert."},
+    {"role": "system",   "content": "You are a GIS and Remote Sensing expert."},
     {"role": "user",     "content": "What is NDVI and why is it useful?"},
-    {"role": "assistant","content": "NDVI (Normalized Difference Vegetation Index) …"}
+    {"role": "assistant","content": "NDVI (Normalized Difference Vegetation Index) is band combination of red and near-infrared bands and ratio, that gives measurable indication of how green the land is. it is satellite derived or drone derived values. 
+    It uses red band and near-infrared band. NDVI measures the vegetation cover and health of the vegetation."}
+  ]}
+
+  {"messages":[
+    {"role":"system","content":"You are a GIS and Remote Sensing expert."},
+    {"role":"user","content":"What is NDVI and why is it useful?"},
+    {"role":"assistant","content":"The most frequently used index for vegetation mapping is the Normalized
+       Difference Vegetation Index (NDVI), which is defined as:
+       NDVI = (B2 - B1) / (B2 + B1)
+       where, B2 represents the brightness values (i.e., the digital numbers, or pixel
+       values) from an infrared band of an image, and B1 represents the corresponding
+       values in the image’s red band"}
   ]}
