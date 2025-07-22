@@ -1,0 +1,5 @@
+{"messages": [
+    {"role": "system",   "content": "You are a GIS expert."},
+    {"role": "user",     "content": "What is NDVI and why is it useful?"},
+    {"role": "assistant","content": "NDVI (Normalized Difference Vegetation Index) …"}
+  ]}
