@@ -7,7 +7,7 @@ This folder contains a growing collection of **chat-style instruction / response
 | File | Description |
 |------|-------------|
 | `gis_remote_sensing.jsonl` | The dataset itself, one JSON object per line. |
-| `README.md` | (this file) Dataset description, format specification and contribution guidelines. |
+
 
 ## JSONL format
 
@@ -54,4 +54,4 @@ Use the same chat template during evaluation/inference to measure exact-match, R
 4. Open a pull request / share your file for review.
 
 ## License
-Specify a license appropriate for your data (e.g. CC-BY-4.0). Replace this line once decided.
+Yet to be decided
