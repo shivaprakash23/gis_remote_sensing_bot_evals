@@ -7,12 +7,9 @@
   {"messages":[
     {"role":"system","content":"You are a GIS and Remote Sensing expert."},
     {"role":"user","content":"What is NDVI and why is it useful?"},
-    {"role":"assistant","content":"The most frequently used index for vegetation mapping is the Normalized
-       Difference Vegetation Index (NDVI), which is defined as:
+    {"role":"assistant","content":"The most frequently used index for vegetation mapping is the Normalized Difference Vegetation Index (NDVI), which is defined as:
        NDVI = (B2 - B1) / (B2 + B1)
-       where, B2 represents the brightness values (i.e., the digital numbers, or pixel
-       values) from an infrared band of an image, and B1 represents the corresponding
-       values in the image’s red band"}
+       where, B2 represents the brightness values (i.e., the digital numbers, or pixel values) from an infrared band of an image, and B1 represents the corresponding values in the image’s red band"}
   ]}
 
   {"message":[
