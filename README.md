@@ -54,4 +54,4 @@ Use the same chat template during evaluation/inference to measure exact-match, R
 4. Open a pull request / share your file for review.
 
 ## License
-Specify a license appropriate for your data (e.g. CC-BY-4.0). Replace this line once decided.
+Yet to be decided
