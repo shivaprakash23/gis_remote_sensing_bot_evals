@@ -19,15 +19,13 @@
   {"message":[
     {"role":"system","content":"You are a GIS and Remote Sensing expert."},
     {"role":"user","content":"What is remote sening?"},
-    {"role":"assistant","content":"Remote sensing is the acquisition and measurement of information about certain properties of phenomena, objects, or materials using a recording device not in physical contact with the observed features. 
-    "}
+    {"role":"assistant","content":"Remote sensing is the acquisition and measurement of information about certain properties of phenomena, objects, or materials using a recording device not in physical contact with the observed features."}
   ]}
 
   {"message":[
     {"role":"system","content":"You are a GIS and Remote Sensing expert."},
     {"role":"user","content":"What is remote sensing and how does it differ when used in an environmental context compared to medical technologies?"},
-    {"role":"assistant","content":"Remote sensing is the acquisition and measurement of information about certain properties of phenomena, objects, or materials using a recording device not in physical contact with the observed features. While this broad definition includes medical tools like X-rays and MRIs, in an environmental context, remote sensing refers to the recording of electromagnetic energy from the Earth's surface, oceans, or atmosphere. These environmental applications allow scientists to identify, delineate, and differentiate surface features by their electromagnetic properties.
-    "}
+    {"role":"assistant","content":"Remote sensing is the acquisition and measurement of information about certain properties of phenomena, objects, or materials using a recording device not in physical contact with the observed features. While this broad definition includes medical tools like X-rays and MRIs, in an environmental context, remote sensing refers to the recording of electromagnetic energy from the Earth's surface, oceans, or atmosphere. These environmental applications allow scientists to identify, delineate, and differentiate surface features by their electromagnetic properties."}
   ]}
 
 
