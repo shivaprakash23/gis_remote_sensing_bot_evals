@@ -7,7 +7,7 @@ This folder contains a growing collection of **chat-style instruction / response
 | File | Description |
 |------|-------------|
 | `gis_remote_sensing.jsonl` | The dataset itself, one JSON object per line. |
-| `README.md` | (this file) Dataset description, format specification and contribution guidelines. |
+
 
 ## JSONL format
 
